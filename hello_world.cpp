@@ -6,7 +6,7 @@ int main()
    hi
    bye
    hello
-   hello 2
+   hello 2 a
    return 0;
    
 }
