@@ -2,11 +2,6 @@
 
 int main()
 {
-
-  
-
   copy branch
-
-   
 }
 
