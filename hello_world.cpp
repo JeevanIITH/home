@@ -7,6 +7,8 @@ int main()
    bye
    hello
    hello 2 a
+
+   std::cou<<"Hello world 2"<<std::endl;
    return 0;
    
 }
